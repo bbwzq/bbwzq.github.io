@@ -97,3 +97,5 @@ friends: [
         href: "https://shuangzu.top"
     }
 ]
+
+theme: jekyll-theme-cayman
